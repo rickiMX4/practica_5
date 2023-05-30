@@ -1,0 +1,9 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+.contenedor{
+    display: grid;
+    grid-template-areas: 'header header header'
+    'aside body asie' 'footer footer footer';
+}
